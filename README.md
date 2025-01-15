@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shoaib Qasim</h1>
 <h3 align="center">A passionate React developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [SimpliTaught](https://simplitaught.com/)
+- 🔭 I’m currently working on [Vertex360](https://app.vertex360.io/)
 
 - 🌱 I’m currently learning **Next js,Typescript**
 
-- 👯 I’m looking to collaborate on [Admin of SimpliTaught](http://admin.simplitaught.com/)
+
 
 - 💬 Ask me about **Javascript & React js**
 
