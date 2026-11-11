@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shoaib Qasim</h1>
-<h3 align="center">A passionate React developer from Pakistan</h3>
+<h3 align="center">A passionate FullStack developer from Pakistan</h3>
 
 - 🔭 I’m currently working on [Vertex360](https://app.vertex360.io/)
 
-- 🌱 I’m currently learning **Next js,Typescript**
+- 🌱 I’m currently learning **Agentic AI**
 
 
 
-- 💬 Ask me about **Javascript & React js**
+- 💬 Ask me about **Javascript,React js, Next js,Node js, php laravel & agentic ai**
 
 - 📫 How to reach me **shoaibqasim2019@gmail.com**
 
